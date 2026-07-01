@@ -53,6 +53,18 @@ This project investigates out-of-distribution (OOD) generalisation for satellite
 ```
 
 ---
+## Pre-trained Models
+
+Model weights are hosted on Google Drive (excluded from repo due to file size):
+
+**[Download Models from Google Drive](https://drive.google.com/drive/folders/1FAxBFuwOMwgGirMyEhCFZGcGsOXIsF2Q?usp=sharing)**
+
+Files included:
+- `best_erm_model.pt` — ResNet-18 ERM baseline
+- `best_irm_model.pt` — EfficientNet-B4 IRM model  
+- `best_convnext_tiny.pt` — ConvNeXt-Tiny + Metadata model
+- `eda_output.png` — EDA figure
+- `error_analysis.png` — Error analysis figure
 
 ## Setup
 
