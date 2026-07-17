@@ -30,6 +30,7 @@ This project investigates out-of-distribution (OOD) generalisation for satellite
 - Input: 8-channel satellite image (Coastal, Blue, Green, Red, NIR, SWIR-1, SWIR-2, Nighttime Lights), 224×224 pixels
 - Label: continuous asset wealth index
 - Source: https://wilds.stanford.edu/datasets/
+- Colab Link - https://colab.research.google.com/drive/17sAjVZWkwwhYtoUMOLSMdMxJo0Q6z26a
 
 ---
 
